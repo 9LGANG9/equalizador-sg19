@@ -1,0 +1,17 @@
+EQUALIZADOR DE SG - App para Android (sin anuncios)
+
+COMO OBTENER LA APP (gratis, desde una computadora)
+1. Crea una cuenta en github.com y un repositorio nuevo (boton "New").
+2. Sube TODO el contenido de esta carpeta al repositorio
+   (Add file > Upload files). Incluye la carpeta oculta ".github".
+   Si no la ves en tu computadora, crea el archivo a mano:
+   Add file > Create new file, escribe  .github/workflows/build.yml
+   y pega el contenido del build.yml de esta carpeta.
+3. Entra a la pestana "Actions", espera 3-5 minutos a que termine
+   "Compilar APK" (marca verde).
+4. Abre esa ejecucion, baja a "Artifacts" y descarga "Equalizador-de-SG".
+5. Pasa el APK a tu celular, abrelo y permite "instalar apps desconocidas".
+
+USO
+- Abre la app, activa "Ecualizador" y ajusta las bandas.
+- Reproduce musica en YouTube, Apple Music, etc.
